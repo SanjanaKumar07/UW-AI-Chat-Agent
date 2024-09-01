@@ -12,5 +12,5 @@ This project is aimed at creating a Chat Agent that can respond to any queries r
 - Create a chat interface using streamlit for the users.
 
 ## Demo
-
+![](output-gif.gif)
 ![](output.jpg)
